@@ -10,5 +10,7 @@
 
 Λίστα προτεινόμενου εξοπλισμού
 Arduino UNO R4 WiFi
+Breadboard 
 Jumpers
+Πιεσόμετρο ηλεκτρονικό 
 
